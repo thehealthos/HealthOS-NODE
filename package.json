@@ -1,0 +1,14 @@
+{
+  "name": "healthoslib",
+  "version": "1.0.0",
+  "description": "Welcome to HealthOS API!   HealthOS allows you to create world class healthcare applications, leveraging our data source of medicines (generics and branded), food items (with nutrition value), various excercises and physical activities, lab tests, diseases etc.  The API is organized around REST. All requests should be made over SSL. All request and response bodies, including errors, are encoded in JSON.",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "APIMATIC SDK Generator",
+  "dependencies": {
+    "request": "^2.55.0",
+    "mocha": "^3.1.2",
+    "chai": "^3.5.0"
+  }
+}
